@@ -1,0 +1,8 @@
+# This is a gitignore file
+# Files listed here will not be commited to Github
+# You may use wildcards and comment with pound
+
+### secrets.json 		# YOU SHOULD UNCOMMENT THIS IN REAL PROJECT
+*.pyc 					# Python cache files
+logs/*					# Typically you don't need to commit log files
+
