@@ -10,7 +10,7 @@ In this example I am using Python, but there is very little in here that is Pyth
 
 * [Files](#files)
   * [README.md](#readmemd)
-  * [Script.py](#scriptpy)
+  * [script.py](#scriptpy)
   * [.gitignore](#gitignore)
   * [secrets.json](#secretsjson)
   * [License](#license)
